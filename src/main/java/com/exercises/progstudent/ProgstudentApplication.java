@@ -1,0 +1,13 @@
+package com.exercises.progstudent;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProgstudentApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProgstudentApplication.class, args);
+	}
+
+}
